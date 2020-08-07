@@ -1,0 +1,60 @@
+W +19        74        20       4053742.6
+    1 60959A              (0)0(  1000.5)            0.0
+    2 9960A               (0)0(  5004.5)      1794577.3
+   -1    5167.36 933.618 825.538 247.036 214.108 174.356 80.0622 68.7315 53.7261 37.2884                                                                                                                                                                                                                
+ 20.0    3         8.00+04 1.20+05 2.00+05 4.00+05 8.00+05 2.00+06 4.00+06 6.00+06 8.00+06 1.20+07 2.00+07 4.00+07 8.00+07 1.20+08
+    2    1 1.11+12 3.78+02 3.80+02 3.83+02 3.92+02 4.14+02 4.94+02 6.35+02 7.68+02 8.90+02 1.10+03 1.44+03 2.00+03 2.67+03 3.10+03
+   -1
+   -1   -1
+C--------------------------------------------------------------------------------
+C
+C   Atomic Structure from Cowan Atomic Structure Program
+C
+C--------------------------------------------------------------------------------
+C
+C   Code     : ADAS8XX_CREATE_CA_ADF04
+C   Producer : Adam Foster
+C   Date     : 15/05/09
+C--------------------------------------------------------------------------------
+
+C-----------------------------------------------------------------------
+C                               OPEN-ADAS
+C                               +++++++++
+C
+C This file has been downloaded from OPEN-ADAS (http://open.adas.ac.uk)
+C on 19-May-2020.
+C
+C TERMS AND CONDITIONS
+C --------------------
+C
+C The user of the OPEN-ADAS system and data (hereinafter "the User")
+C accepts the following terms and conditions:
+C
+C   1. The University of Strathclyde uses all reasonable endeavours to
+C      ensure the accuracy of the data provided and any information
+C      given, but the University makes no warranty, expressed or implied
+C      as to its accuracy, integrity, fitness for purpose and shall not
+C      be responsible for the use to which the data is put by the User
+C      and/or any consequences arising out of any inaccuracies or
+C      omissions.
+C
+C   2. Any downloaded OPEN-ADAS file is made available for the
+C      personal use of the User only.  It must not be used for any
+C      commercial application, incorporated into any web site or in
+C      any form re-distributed without express prior written permission
+C      from the ADAS Project. In particular, but not by way of
+C      limitation, it must not be:
+C        *  inserted into a managed database structure,
+C        *  redistributed along with a modelling or analysis code,
+C        *  made available on a public website.
+C
+C Permission for OPEN-ADAS data incorporation in non-commercial
+C code/system development for scientific advance will not be
+C unreasonably withheld, but will be subject to written agreement
+C on a case by case basis.
+C
+C The User will indemnify the University of Strathclyde and keep it
+C fully and effectively indemnified against each and every claim made
+C against the University as a result of the User's use of the data.
+C
+C-----------------------------------------------------------------------

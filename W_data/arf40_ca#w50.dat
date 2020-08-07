@@ -1,0 +1,77 @@
+W +50        74        51      36924062.4
+    1 66                  (0)0(   104.0)            0.0
+    2 24555576            (0)0(   359.5)      3937921.6
+    3 56518               (0)0(   755.0)     15937548.3
+    4 56519               (0)0(  1259.5)     17454161.1
+    5 5651A               (0)0(  1763.5)     18673342.1
+   -1    5356.65 1117.34 1010.11 409.060 376.108 341.431    0.0  193.584 179.748 168.563
+ 51.0    3         5.20+05 7.80+05 1.30+06 2.60+06 5.20+06 1.30+07 2.60+07 3.90+07 5.20+07 7.80+07 1.30+08 2.60+08 5.20+08 7.80+08
+    3    1 4.75+12 5.95-01 5.95-01 5.97-01 6.02-01 6.13-01 6.56-01 7.39-01 8.23-01 9.03-01 1.05+00 1.30+00 1.74+00 2.29+00 2.66+00
+    4    1 1.82+10 5.62+00 5.62+00 5.62+00 5.64+00 5.68+00 5.79+00 5.97+00 6.11+00 6.22+00 6.40+00 6.63+00 6.92+00 7.16+00 7.29+00
+    5    1 7.07+13 1.96+01 1.96+01 1.96+01 1.98+01 2.01+01 2.14+01 2.37+01 2.59+01 2.80+01 3.17+01 3.77+01 4.82+01 6.10+01 6.93+01
+    2    1 1.66+12 3.18+01 3.19+01 3.22+01 3.29+01 3.43+01 3.80+01 4.24+01 4.57+01 4.82+01 5.21+01 5.76+01 6.56+01 7.40+01 7.90+01
+    4    3 3.84+11 3.89+02 3.94+02 4.04+02 4.29+02 4.72+02 5.60+02 6.49+02 7.07+02 7.52+02 8.17+02 9.03+02 1.02+03 1.15+03 1.22+03
+    5    3 7.38+07 3.78+01 3.78+01 3.79+01 3.82+01 3.86+01 3.95+01 4.01+01 4.04+01 4.07+01 4.09+01 4.13+01 4.16+01 4.18+01 4.18+01
+    5    4 1.50+11 4.59+02 4.66+02 4.79+02 5.11+02 5.64+02 6.66+02 7.64+02 8.29+02 8.77+02 9.48+02 1.04+03 1.17+03 1.30+03 1.37+03
+   -1
+   -1   -1
+C--------------------------------------------------------------------------------
+C
+C   Atomic Structure from Cowan Atomic Structure Program
+C
+C--------------------------------------------------------------------------------
+C
+C   Code     : ADAS8XX_CREATE_CA_ADF04
+C   Producer : Adam Foster
+C   Date     : 18/05/09
+C--------------------------------------------------------------------------------
+C
+C   Correct the orbital energy line to insert 0.0 for orbitals not present
+C   in the set of configurations.
+C
+C   Martin O'Mullane
+C   29-11-2011
+C
+C-------------------------------------------------------------------------------
+
+C-----------------------------------------------------------------------
+C                               OPEN-ADAS
+C                               +++++++++
+C
+C This file has been downloaded from OPEN-ADAS (http://open.adas.ac.uk)
+C on 19-May-2020.
+C
+C TERMS AND CONDITIONS
+C --------------------
+C
+C The user of the OPEN-ADAS system and data (hereinafter "the User")
+C accepts the following terms and conditions:
+C
+C   1. The University of Strathclyde uses all reasonable endeavours to
+C      ensure the accuracy of the data provided and any information
+C      given, but the University makes no warranty, expressed or implied
+C      as to its accuracy, integrity, fitness for purpose and shall not
+C      be responsible for the use to which the data is put by the User
+C      and/or any consequences arising out of any inaccuracies or
+C      omissions.
+C
+C   2. Any downloaded OPEN-ADAS file is made available for the
+C      personal use of the User only.  It must not be used for any
+C      commercial application, incorporated into any web site or in
+C      any form re-distributed without express prior written permission
+C      from the ADAS Project. In particular, but not by way of
+C      limitation, it must not be:
+C        *  inserted into a managed database structure,
+C        *  redistributed along with a modelling or analysis code,
+C        *  made available on a public website.
+C
+C Permission for OPEN-ADAS data incorporation in non-commercial
+C code/system development for scientific advance will not be
+C unreasonably withheld, but will be subject to written agreement
+C on a case by case basis.
+C
+C The User will indemnify the University of Strathclyde and keep it
+C fully and effectively indemnified against each and every claim made
+C against the University as a result of the User's use of the data.
+C
+C-----------------------------------------------------------------------

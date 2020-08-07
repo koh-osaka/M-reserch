@@ -1,0 +1,82 @@
+W +52        74        53      39738937.4
+    1 46                  (0)0(   104.0)            0.0
+    2 24555556            (0)0(   755.0)      3744849.8
+    3 36519               (0)0(   599.5)     18322204.8
+    4 3651A               (0)0(   839.0)     19453936.1
+    5 3651D               (0)0(   599.5)     26151815.6
+    6 3651E               (0)0(   839.0)     26673682.2
+   -1    5383.33 1142.89 1035.85 428.144 395.120 362.356    0.0     0.0  191.832 181.435    0.0     0.0  120.416 115.623
+ 53.0    3         5.62+05 8.43+05 1.40+06 2.81+06 5.62+06 1.40+07 2.81+07 4.21+07 5.62+07 8.43+07 1.40+08 2.81+08 5.62+08 8.43+08
+    3    1 3.01+10 3.59+00 3.59+00 3.60+00 3.61+00 3.63+00 3.71+00 3.82+00 3.92+00 3.99+00 4.11+00 4.26+00 4.44+00 4.60+00 4.68+00
+    4    1 1.10+14 1.33+01 1.34+01 1.34+01 1.35+01 1.37+01 1.46+01 1.62+01 1.77+01 1.91+01 2.16+01 2.57+01 3.27+01 4.12+01 4.67+01
+    5    1 1.42+10 7.45-01 7.45-01 7.46-01 7.47-01 7.49-01 7.57-01 7.70-01 7.82-01 7.91-01 8.06-01 8.26-01 8.53-01 8.75-01 8.87-01
+    6    1 4.18+13 3.01+00 3.01+00 3.02+00 3.03+00 3.06+00 3.18+00 3.38+00 3.59+00 3.78+00 4.13+00 4.71+00 5.72+00 6.97+00 7.78+00
+    2    1 9.85+11 4.81+01 4.83+01 4.87+01 4.99+01 5.22+01 5.81+01 6.49+01 6.99+01 7.37+01 7.96+01 8.77+01 9.94+01 1.12+02 1.19+02
+    4    3 1.11+11 2.16+02 2.20+02 2.27+02 2.43+02 2.68+02 3.16+02 3.61+02 3.90+02 4.12+02 4.44+02 4.84+02 5.41+02 5.99+02 6.33+02
+    5    3 7.67+09 1.57+01 1.57+01 1.58+01 1.60+01 1.64+01 1.75+01 1.87+01 1.96+01 2.01+01 2.10+01 2.19+01 2.30+01 2.39+01 2.43+01
+    6    3 2.12+13 1.27+01 1.28+01 1.30+01 1.35+01 1.46+01 1.87+01 2.52+01 3.08+01 3.57+01 4.39+01 5.62+01 7.60+01 9.88+01 1.13+02
+    5    4 1.05+12 2.11+00 2.11+00 2.12+00 2.14+00 2.20+00 2.42+00 2.80+00 3.15+00 3.45+00 3.98+00 4.77+00 6.07+00 7.59+00 8.56+00
+    6    4 3.62+09 2.09+01 2.10+01 2.10+01 2.13+01 2.17+01 2.29+01 2.42+01 2.51+01 2.57+01 2.65+01 2.74+01 2.85+01 2.94+01 2.97+01
+    6    5 3.88+10 7.24+02 7.50+02 7.97+02 8.90+02 1.02+03 1.23+03 1.41+03 1.52+03 1.60+03 1.72+03 1.87+03 2.07+03 2.29+03 2.42+03
+   -1
+   -1   -1
+C--------------------------------------------------------------------------------
+C
+C   Atomic Structure from Cowan Atomic Structure Program
+C
+C--------------------------------------------------------------------------------
+C
+C   Code     : ADAS8XX_CREATE_CA_ADF04
+C   Producer : Adam Foster
+C   Date     : 15/05/09
+C--------------------------------------------------------------------------------
+C
+C   Correct the orbital energy line to insert 0.0 for orbitals not present
+C   in the set of configurations.
+C
+C   Martin O'Mullane
+C   29-11-2011
+C
+C-------------------------------------------------------------------------------
+
+C-----------------------------------------------------------------------
+C                               OPEN-ADAS
+C                               +++++++++
+C
+C This file has been downloaded from OPEN-ADAS (http://open.adas.ac.uk)
+C on 19-May-2020.
+C
+C TERMS AND CONDITIONS
+C --------------------
+C
+C The user of the OPEN-ADAS system and data (hereinafter "the User")
+C accepts the following terms and conditions:
+C
+C   1. The University of Strathclyde uses all reasonable endeavours to
+C      ensure the accuracy of the data provided and any information
+C      given, but the University makes no warranty, expressed or implied
+C      as to its accuracy, integrity, fitness for purpose and shall not
+C      be responsible for the use to which the data is put by the User
+C      and/or any consequences arising out of any inaccuracies or
+C      omissions.
+C
+C   2. Any downloaded OPEN-ADAS file is made available for the
+C      personal use of the User only.  It must not be used for any
+C      commercial application, incorporated into any web site or in
+C      any form re-distributed without express prior written permission
+C      from the ADAS Project. In particular, but not by way of
+C      limitation, it must not be:
+C        *  inserted into a managed database structure,
+C        *  redistributed along with a modelling or analysis code,
+C        *  made available on a public website.
+C
+C Permission for OPEN-ADAS data incorporation in non-commercial
+C code/system development for scientific advance will not be
+C unreasonably withheld, but will be subject to written agreement
+C on a case by case basis.
+C
+C The User will indemnify the University of Strathclyde and keep it
+C fully and effectively indemnified against each and every claim made
+C against the University as a result of the User's use of the data.
+C
+C-----------------------------------------------------------------------
